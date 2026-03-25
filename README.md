@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Kareem%20Goda&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
-  <h3> 👨‍💻 AI/ML Engineer | Data Engineer | Data Science </h3>
+  <h3> 👨‍💻 AI/ML Engineer | Data Engineer | Data Scientist </h3>
 
   <p>
     Hi, I'm Kareem Goda 👋 <br/>
-    AI/ML Engineer specializing in Computer Vision and Data Engineering, focused on building production-ready AI systems and scalable data pipelines.
+    AI/ML Engineer specializing in **Computer Vision, Data Science, and Data Engineering**, focused on building production-ready AI systems, data pipelines, and visual analytics.
   </p>
 
   <p align="center">
@@ -19,10 +19,10 @@
 
 ### 🚀 About Me
 
-AI/ML Engineer with hands-on experience in **Computer Vision, NLP, and Deep Learning**, combined with strong knowledge in **Data Engineering**.
-I build **end-to-end intelligent systems** and scalable **data pipelines** using modern tools like Airflow, Docker, and PySpark.
+AI/ML Engineer with hands-on experience in **Computer Vision, NLP, Deep Learning**, combined with strong knowledge in **Data Science & Data Engineering**.
+I build **end-to-end intelligent systems**, scalable **data pipelines**, and interactive **data visualizations** using modern tools like Airflow, Docker, PySpark, and Plotly.
 
-🚀 Actively seeking opportunities in **AI / Data Engineering**
+🚀 Actively seeking opportunities in **AI / Data Science / Data Engineering**
 
 ---
 
@@ -37,6 +37,16 @@ I build **end-to-end intelligent systems** and scalable **data pipelines** using
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+#### 📊 Data Science & Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-FF6600?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C77A8?style=for-the-badge&logo=seaborn&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 #### ⚙️ Data Engineering & Databases
@@ -73,7 +83,7 @@ I build **end-to-end intelligent systems** and scalable **data pipelines** using
 * Created clear visualizations (distributions, relationships, correlation heatmaps) to enhance interpretability and understanding of the dataset
 * Focused on extracting insights that can support future predictive modeling tasks
 
-**Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn · EDA · Kaggle
+**Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · EDA · Kaggle
 
 🔗 [View Kaggle Notebook](https://www.kaggle.com/code/kareembasemgoda/heart-disease-exploratory-data-analysis)
 
