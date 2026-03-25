@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Kareem%20Goda&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
-  <h3> 👨‍💻 AI/ML Engineer | Data Engineer </h3>
+  <h3> 👨‍💻 AI/ML Engineer | Data Engineer | Data Science </h3>
 
   <p>
     Hi, I'm Kareem Goda 👋 <br/>
