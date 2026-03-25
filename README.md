@@ -5,7 +5,7 @@
 
   <p>
     Hi, I'm Kareem Goda 👋 <br/>
-    AI/ML Engineer specializing in **Computer Vision, Data Science, and Data Engineering**, focused on building production-ready AI systems, data pipelines, and visual analytics.
+    AI/ML Engineer specializing in **Machine Learning, Computer Vision, Data Science, and Data Engineering**, focused on building production-ready AI systems, data pipelines, and visual analytics.
   </p>
 
   <p align="center">
