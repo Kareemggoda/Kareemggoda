@@ -61,8 +61,22 @@ I build **end-to-end intelligent systems** and scalable **data pipelines** using
 * Built a **CNN-based deep learning model** for drug classification and interaction analysis
 * Integrated AI models into a complete intelligent healthcare solution
 
-🔗 https://github.com/Kareemggoda/Read_prescription_YOLO
-🔗 https://github.com/Kareemggoda/CNN_Model_Drug-Drug-Interactions
+🔗 [Read Prescription YOLO](https://github.com/Kareemggoda/Read_prescription_YOLO)
+🔗 [CNN Model Drug-Drug Interactions](https://github.com/Kareemggoda/CNN_Model_Drug-Drug-Interactions)
+
+---
+
+#### ❤️ Heart Disease — Exploratory Data Analysis (Kaggle Notebook)
+
+* Performed comprehensive exploratory data analysis on the **UCI Heart Disease dataset** to uncover patterns and potential risk factors associated with cardiovascular disease
+* Analyzed clinical features such as age, cholesterol, and blood pressure, identifying meaningful correlations to support data-driven insights
+* Created clear visualizations (distributions, relationships, correlation heatmaps) to enhance interpretability and understanding of the dataset
+* Focused on extracting insights that can support future predictive modeling tasks
+
+**Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn · EDA · Kaggle
+
+🔗 [View Kaggle Notebook](https://www.kaggle.com/code/kareembasemgoda/heart-disease-exploratory-data-analysis)
+
 ---
 
 #### 📚 Gravity Books Data Warehouse
@@ -71,7 +85,7 @@ I build **end-to-end intelligent systems** and scalable **data pipelines** using
 * Built ETL pipelines using **PySpark** to transform and load data from OLTP systems
 * Optimized data structure for analytical queries and reporting
 
-🔗 (https://github.com/Kareemggoda/gravity_books_dwh)
+🔗 [GitHub Repo](https://github.com/Kareemggoda/gravity_books_dwh)
 
 ---
 
@@ -81,4 +95,12 @@ I build **end-to-end intelligent systems** and scalable **data pipelines** using
 * Containerized the workflow using **Docker** for scalability and deployment
 * Processed and transformed sales data into structured formats for analysis
 
-🔗 (https://github.com/Kareemggoda/python-postgres-airflow-ETL-)
+🔗 [GitHub Repo](https://github.com/Kareemggoda/python-postgres-airflow-ETL-)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kareemggoda&color=blue" alt="Profile Views" />
+</div>
