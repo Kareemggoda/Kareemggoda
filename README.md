@@ -61,8 +61,8 @@ I build **end-to-end intelligent systems** and scalable **data pipelines** using
 * Built a **CNN-based deep learning model** for drug classification and interaction analysis
 * Integrated AI models into a complete intelligent healthcare solution
 
-🔗 *Add GitHub Link Here*
-
+🔗 https://github.com/Kareemggoda/Read_prescription_YOLO
+🔗 https://github.com/Kareemggoda/CNN_Model_Drug-Drug-Interactions
 ---
 
 #### 📚 Gravity Books Data Warehouse
@@ -71,7 +71,7 @@ I build **end-to-end intelligent systems** and scalable **data pipelines** using
 * Built ETL pipelines using **PySpark** to transform and load data from OLTP systems
 * Optimized data structure for analytical queries and reporting
 
-🔗 *Add GitHub Link Here*
+🔗 (https://github.com/Kareemggoda/gravity_books_dwh)
 
 ---
 
@@ -81,17 +81,4 @@ I build **end-to-end intelligent systems** and scalable **data pipelines** using
 * Containerized the workflow using **Docker** for scalability and deployment
 * Processed and transformed sales data into structured formats for analysis
 
-🔗 *Add GitHub Link Here*
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kareemggoda&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareemggoda&layout=compact&theme=tokyonight" height="150" />
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kareemggoda&color=blue" alt="Profile Views" />
-</div>
+🔗 (https://github.com/Kareemggoda/python-postgres-airflow-ETL-)
